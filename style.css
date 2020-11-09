@@ -1,0 +1,28 @@
+body {
+	background-color:tan;
+	margin:20px 20px 20px 20px;
+}
+
+
+h1 {
+	font-family:"Times New Roman", Times, serif;
+	text-align:center;
+}
+
+h2 {
+	font-family:Arial, serif;
+}
+p {
+	font-family:comicsands,Verdaona, Helvetica, sans-serif;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
